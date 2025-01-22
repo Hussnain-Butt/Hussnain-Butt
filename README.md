@@ -1,6 +1,6 @@
 ![logo](https://github.com/Hussnain-Butt/Hussnain-Butt/blob/main/1736399501409.jpg)
   <h1 align="center">Hi There, I'm Hussnain Butt 👋</h1>
-    <hr>
+
     <div class="typewriter">
 <h3 align="center">Transforming ideas into dynamic web solutions with the power of the MERN stack!</h3>
 </div>

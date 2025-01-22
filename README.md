@@ -4,8 +4,7 @@
     <div class="typewriter">
 <h3 align="center">Transforming ideas into dynamic web solutions with the power of the MERN stack!</h3>
 </div>
-<br>
-<br>
+
 <br>
 - 📫 How to reach me **bhussnain966@gmail.com**
 <br>

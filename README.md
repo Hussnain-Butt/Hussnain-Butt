@@ -5,7 +5,6 @@
 <h3 align="center">Transforming ideas into dynamic web solutions with the power of the MERN stack!</h3>
 </div>
 <br>
-- 💬 Ask me about **Bootstrap, TailwindCSS, Javascript, TypeScript, ReactJS, NextJs, NodeJs, ExpressJs, MongoDB,**
 <br>
 <br>
 - 📫 How to reach me **bhussnain966@gmail.com**

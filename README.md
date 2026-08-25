@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  # Hussnain Butt
+  # Muhammad Hussain
   ### Full-Stack MERN Developer
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Freelance+Full-Stack+Developer+%40+StudioCog;Building+CRMs%2C+SaaS+%26+AI-Integrated+Tools;MongoDB+%7C+Express+%7C+React+%7C+Node+%7C+TypeScript+%7C+Python)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 <br/>
 
 ```js
-const hussnainButt = {
+const muhammadHussain = {
   role: "Full-Stack Developer",
   stack: ["MERN", "TypeScript", "Python"],
   currentlyBuilding: "CRMs, SaaS dashboards & AI-integrated tools @ StudioCog",

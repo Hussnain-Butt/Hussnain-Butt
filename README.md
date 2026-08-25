@@ -1,23 +1,98 @@
-![logo](https://github.com/Hussnain-Butt/Hussnain-Butt/blob/main/1736399501409.jpg)
-  <h1 align="center">Hi There, I'm Hussnain Butt 👋</h1>
-  <hr>
-<h3 align="center">Transforming ideas into dynamic web solutions with the power of the MERN stack!</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hussnain-Butt/Hussnain-Butt/main/1736399501409.jpg" width="120" height="120" style="border-radius:50%;" alt="Hussnain Butt" />
+
+  # Hussnain Butt
+  ### Full-Stack MERN Developer
+
+  Building scalable web apps, CRMs, SaaS platforms & AI-powered tools
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnainbutt/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhussaininfo1@gmail.com)
 </div>
 
-<br>
-- 📫 How to reach me **bhussnain966@gmail.com**
-<br>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hussnainbutt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussnain butt" height="30" width="40" /></a>
-</p>
+## About Me
 
-<img align="right" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400px" alt="gif" srcset="">
+- Full-stack developer specialized in the **MERN stack** (MongoDB, Express, React, Node.js) and **TypeScript**
+- Currently building production web apps, CRMs & SaaS dashboards at **StudioCog**
+- Also work with **Python** for automation, web scraping & AI-integrated tools
+- Based in Pakistan · Open to freelance & full-time opportunities
+- 📫 Reach me at **muhammadhussaininfo1@gmail.com**
 
-<br>
+<br/>
 
-<h3 >Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussnain-butt&show_icons=true&locale=en&layout=compact" alt="hussnain-butt" /></p>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔗 [Redline-CRM](https://github.com/Hussnain-Butt/Redline-CRM) | Full-stack CRM system for managing customers & sales pipelines | TypeScript |
+| 🔗 [Vybzz](https://github.com/Hussnain-Butt/Vybzz) | Full-stack social platform with a Dockerized backend/frontend deployment | TypeScript, Docker |
+| 🔗 [WearFlare](https://github.com/Hussnain-Butt/WearFlare) | Full-stack e-commerce web application | TypeScript, React |
+| 🔗 [Ai-Study-Companion](https://github.com/Hussnain-Butt/Ai-Study-Companion) | AI-powered study companion app | Next.js, TypeScript |
+| 🔗 [Estimaro-AdminDashboard](https://github.com/Hussnain-Butt/Estimaro-AdminDashboard) | Admin dashboard for the Estimaro platform | Python |
+| 🔗 [My-Portoflio-Website](https://github.com/Hussnain-Butt/My-Portoflio-Website) | Personal portfolio website | JavaScript |
+
+<br/>
+
+## Client & Production Work
+
+Selected production projects built for clients / StudioCog. Repos are private under client agreements, but all are live, shipped products.
+
+| Project | Description | Stack |
+|---|---|---|
+| **MKV Digital Gulf Bulletin** | Independent digital newsroom covering Gulf business, tech, logistics & trade — public site + full admin CMS | TypeScript, PostgreSQL |
+| **WhaleHerald** | Charting, backtesting & trading-education platform for beginners | TypeScript |
+| **Itkan** | Full-stack e-learning platform — landing page, learner app, admin dashboard & lesson/listening-exercise system | TypeScript |
+| **BFS-CRM** | Full-stack CRM system with dedicated backend/frontend architecture | TypeScript |
+| **Privify** | Product build with UX research & design system, developed for a startup incubator submission | TypeScript |
+| **Monarch Collective** | Full-stack web platform (backend + frontend) | JavaScript |
+| **Citabot** | Automated appointment-booking bot (Playwright) with monitoring dashboard, PDF generation & production deployment setup | TypeScript, Playwright |
+
+*🔒 Private repositories — case studies & code walkthroughs available on request.*
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussnain-Butt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussnain-Butt&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Thanks for stopping by — let's connect!</sub>
+</div>

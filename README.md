@@ -4,52 +4,31 @@
   # Hussnain Butt
   ### Full-Stack MERN Developer
 
-  Building scalable web apps, CRMs, SaaS platforms & AI-powered tools
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Freelance+Full-Stack+Developer+%40+StudioCog;Building+CRMs%2C+SaaS+%26+AI-Integrated+Tools;MongoDB+%7C+Express+%7C+React+%7C+Node+%7C+TypeScript+%7C+Python)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnainbutt/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhussaininfo1@gmail.com)
+  [![Status](https://img.shields.io/badge/Status-Available%20for%20Contract%20Work-brightgreen?style=flat-square)](mailto:muhammadhussaininfo1@gmail.com)
 </div>
 
 <br/>
 
-## About Me
-
-- Full-stack developer specialized in the **MERN stack** (MongoDB, Express, React, Node.js) and **TypeScript**
-- Currently building production web apps, CRMs & SaaS dashboards at **StudioCog**
-- Also work with **Python** for automation, web scraping & AI-integrated tools
-- Based in Pakistan · Open to freelance & full-time opportunities
-- 📫 Reach me at **muhammadhussaininfo1@gmail.com**
+```js
+const hussnainButt = {
+  role: "Full-Stack Developer",
+  stack: ["MERN", "TypeScript", "Python"],
+  currentlyBuilding: "CRMs, SaaS dashboards & AI-integrated tools @ StudioCog",
+  basedIn: "Pakistan",
+  openTo: ["Freelance contracts", "Full-time roles"],
+  reachMe: "muhammadhussaininfo1@gmail.com",
+};
+```
 
 <br/>
 
 ## Tech Stack
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind,nodejs,express,py,mongodb,postgres,docker,git,github,figma&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
@@ -84,15 +63,34 @@ Selected production projects built for clients / StudioCog. Repos are private un
 
 <br/>
 
+## Services / What I Offer
+
+- Full-stack MERN application development (React, Node.js, Express, MongoDB)
+- Legacy JavaScript → TypeScript migration
+- REST API design & third-party integrations
+- AI feature integration (LLM/OpenAI APIs) into existing products
+- CRM & SaaS dashboard development
+- Browser automation & scraping (Python, Playwright)
+- Cloud deployment & CI/CD (Docker, Railway, GitHub Actions)
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussnain-Butt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussnain-Butt&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Hussnain-Butt&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hussnain-Butt&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Thanks for stopping by — let's connect!</sub>
+
+### Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Hussnain-Butt/My-Portoflio-Website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnainbutt/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhussaininfo1@gmail.com)
+
+<sub>Thanks for stopping by!</sub>
 </div>

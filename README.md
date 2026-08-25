@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hussnain-Butt/Hussnain-Butt/main/1736399501409.jpg" width="120" height="120" style="border-radius:50%;" alt="Hussnain Butt" />
+
 
   # Hussnain Butt
   ### Full-Stack MERN Developer
